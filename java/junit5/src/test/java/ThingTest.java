@@ -5,6 +5,8 @@ import static org.assertj.core.api.Assertions.assertThat;
 
 class ThingTest {
 
+    // Initial commit
+
     @Test
     void fail() {
         Thing thing = new Thing();
